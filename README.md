@@ -1,2 +1,1 @@
-# Wordpress-for-Dotnet
-Wordpress for Dotnet
+Wordpress-for-Windows-Server
